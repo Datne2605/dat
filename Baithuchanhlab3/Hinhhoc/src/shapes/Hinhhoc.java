@@ -1,0 +1,29 @@
+package shapes;
+
+public class Hinhhoc {
+
+    public final float PI = 3.14f;
+
+    public String ten;
+    public float chuvi;
+    public float dientich;
+    public float thetich;
+
+    public void xuatTen() {
+        System.out.println("\n===== " + ten + " =====");
+
+    }
+
+    public void inchuvi() {
+        System.out.println("Chu vi = " + chuvi);
+    }
+
+    public void indientich() {
+        System.out.println("Dien tich =" + dientich);
+    }
+
+    public void inthetich() {
+        System.out.println("The tich = " + thetich);
+    }
+
+}
