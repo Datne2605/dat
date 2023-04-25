@@ -17,6 +17,6 @@ public class Bai8 {
         }
         TBC = tong / x;
         System.out.print("Trung binh cong day vua nhap la =" + TBC);
-        sc.close();
+
     }
 }
