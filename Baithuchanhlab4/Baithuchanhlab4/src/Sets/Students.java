@@ -16,12 +16,11 @@ public class Students {
 
     }
 
-    public static void Display(Set<Students> LinkSet) {
-        for (Students std : LinkSet) {
-            System.out.println(std.Fullname);
-            System.out.println(std.Age);
+    public static void Hienthi() {
 
-        }
+        System.out.println("Ten la : " + Fullname);
+        System.out.println("Tuoi la : " + Age);
 
-}
+    }
+
 }
